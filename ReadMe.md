@@ -1,0 +1,1 @@
+To run it use the same steps from the Jersey Enviroment Setup Guide in moodle.
